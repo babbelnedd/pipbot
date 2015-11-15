@@ -1,0 +1,14 @@
+{
+  "name": "pipbot",
+  "version": "0.0.4",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^4.1.1",
+    "moment": "^2.10.6",
+    "twitter": "^1.2.5",
+    "winston": "^2.0.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "debug": false,
+  "reconnect": true,
+  "prefix": "!",
+  "log": {
+    "file": {
+      "enabled": true,
+      "path": ".",
+      "level": "info"
+    },
+    "console": {
+      "enabled": true,
+      "level": "debug"
+    }
+  },
+  "servers": [
+    "https://discord.gg/0bbRrdiG1YaVJNbH",
+    "https://discord.gg/0ad8plst3sJe5zue"
+  ]
+}
